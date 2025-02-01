@@ -1,8 +1,4 @@
 # Real-Time-Stock-Market-Dashboard
 We have created a Real Time Stock Market Dashboard using React.js and python.
+Change of plans
 
-print('hii')
-print('hey')
-print('haaaa')
-print('frontend")
-this is bullshit
