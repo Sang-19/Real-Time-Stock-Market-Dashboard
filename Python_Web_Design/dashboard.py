@@ -13,7 +13,6 @@ end_date = st.sidebar.date_input("End Date:",value=None)
 ticket = yf.Ticker(ticket_symbol)
 historical_data = ticket.history(start = start_date, end = end_date)
 if start_date is not None and end_date is not None:
-  #t.write(historical_data)
   st.subheader(f'{ticket_symbol} Stock View')
   stockData = yf.download(ticket_symbol,start = start_date, end = end_date)
   Price, Historical, Chart = st.tabs(["Price Summary", "Historical Summary", "Charts"])
