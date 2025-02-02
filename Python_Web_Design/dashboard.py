@@ -11,7 +11,6 @@ start_date = st.sidebar.date_input("Start Date:",value=None)
 end_date = st.sidebar.date_input("End Date:",value=None)
 
 ticket = yf.Ticker(ticket_symbol)
-#st.write("Stock Market Data")
 historical_data = ticket.history(start = start_date, end = end_date)
 if start_date is not None and end_date is not None:
   #t.write(historical_data)
