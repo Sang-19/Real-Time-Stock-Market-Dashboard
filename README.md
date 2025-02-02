@@ -5,5 +5,6 @@ We will create 2 projects
 One with the python - full backend and front end
 and one with react js - full backend and front end
 
+PYTHON ONE IS COMPLETED 
 ![image](https://github.com/user-attachments/assets/410cc2c5-c3bd-499b-810d-970f43f32e46)
 
