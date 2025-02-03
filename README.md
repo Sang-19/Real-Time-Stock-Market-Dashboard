@@ -10,3 +10,5 @@ PYTHON ONE IS COMPLETED
 
 FRONTEND - HTML AND CSS
 ![image](https://github.com/user-attachments/assets/61812100-5b6b-4a0f-88b1-056eb7620238)
+
+good
